@@ -8,45 +8,624 @@ The readings are assigned in: Strang, Gilbert. _Introduction to Linear Algebra_.
 
 Reading assignments are also provided for the newer edition: Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
-| SES # | TOPICS | READINGS in 4th Edition | READINGS IN 5TH EDITION |
-| --- | --- | --- | --- |
-| 1 | The geometry of linear equations | 1.1-2.1 | 1.1-2.1 |
-| 2 | Elimination with matrices | 2.2-2.3 | 2.2-2.3 |
-| 3 | Matrix operations and inverses | 2.4-2.5 | 2.4-2.5   |
-| 4 | _LU_ and _LDU_ factorization | 2.6 | 2.6   |
-| 5 | Transposes and permutations | 2.7 | 2.7   |
-| 6 | Vector spaces and subspaces | 3.1 | 3.1   |
-| 7 | The nullspace: Solving Ax = 0 | 3.2 | 3.2   |
-| 8 | Rectangular _PA_ \= _LU_ and Ax = b | 3.3-3.4 | 3.3 |
-| 9 | Row reduced echelon form | 3.3-3.4 | 3.3 |
-| 10 | Basis and dimension | 3.5 | 3.4 |
-| 11 | The four fundamental subspaces | 3.6 | 3.5 |
-| 12 | Exam 1: Chapters 1 to 3.4 | &nbsp; |
-| 13 | Graphs and networks | 8.2 | 3.5, 10.1 |
-| 14 | Orthogonality | 4.1 | 4.1 |
-| 15 | Projections and subspaces | 4.2 | 4.2 |
-| 16 | Least squares approximations | 4.3 | 4.3 |
-| 17 | Gram-Schmidt and _A_ = _QR_ | 4.4 | 4.4 |
-| 18 | Properties of determinants | 5.1 | 5.1 |
-| 19 | Formulas for determinants | 5.2 | 5.2 |
-| 20 | Applications of determinants | 5.3 | 5.3 |
-| 21 | Eigenvalues and eigenvectors | 6.1 | 6.1 |
-| 22 | Diagonalization | 6.2 | 6.2 |
-| 23 | Markov matrices | 8.3 | 10.3 |
-| 24 | _Review for exam 2_ | &nbsp; |
-| 25 | Exam 2: Chapters 1-5, 6.1-6.2, 8.2 | &nbsp; |
-| 26 | Differential equations | 6.3 | 6.3 |
-| 27 | Symmetric matrices | 6.4 | 6.4 |
-| 28 | Positive definite matrices | 6.5 | 6.5 |
-| 29 | Matrices in engineering | 8.1 | 10.2 |
-| 30 | Similar matrices | 6.6 | 6.2 |
-| 31 | Singular value decomposition | 6.7 | 7.1-7.2 |
-| 32 | Fourier series, FFT, complex matrices | 8.5, 10.2-10.3 | 10.5, 9.2-9.3 |
-| 33 | Linear transformations | 7.1-7.2 | 8.1-8.2 |
-| 34 | Choice of basis | 7.3 | 8.3 |
-| 35 | Linear programming | 8.4 | 10.4 |
-| 36 | _Course review_ | &nbsp; |
-| 37 | Exam 3: Chapters 1-8 (8.1, 2, 3, 5) | &nbsp; |
-| 38 | Numerical linear algebra | 9.1-9.3 | 11.1-11.3 |
-| 39 | Computational science | See the Web site for [18.085](/courses/18-085-computational-science-and-engineering-i-fall-2008) | &nbsp; |
-| 40 | Final exam | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS in 4th Edition
+{{< thclose >}}
+{{< thopen >}}
+READINGS IN 5TH EDITION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The geometry of linear equations
+{{< tdclose >}}
+{{< tdopen >}}
+1.1-2.1
+{{< tdclose >}}
+{{< tdopen >}}
+﻿1.1-2.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Elimination with matrices
+{{< tdclose >}}
+{{< tdopen >}}
+2.2-2.3
+{{< tdclose >}}
+{{< tdopen >}}
+2.2-2.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Matrix operations and inverses
+{{< tdclose >}}
+{{< tdopen >}}
+2.4-2.5
+{{< tdclose >}}
+{{< tdopen >}}
+﻿2.4-2.5  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_LU_ and _LDU_ factorization
+{{< tdclose >}}
+{{< tdopen >}}
+2.6
+{{< tdclose >}}
+{{< tdopen >}}
+﻿2.6  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Transposes and permutations
+{{< tdclose >}}
+{{< tdopen >}}
+2.7
+{{< tdclose >}}
+{{< tdopen >}}
+﻿2.7  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Vector spaces and subspaces
+{{< tdclose >}}
+{{< tdopen >}}
+3.1
+{{< tdclose >}}
+{{< tdopen >}}
+﻿3.1  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The nullspace: Solving Ax = 0
+{{< tdclose >}}
+{{< tdopen >}}
+3.2
+{{< tdclose >}}
+{{< tdopen >}}
+﻿3.2  
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Rectangular _PA_ \= _LU_ and Ax = b
+{{< tdclose >}}
+{{< tdopen >}}
+3.3-3.4
+{{< tdclose >}}
+{{< tdopen >}}
+3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Row reduced echelon form
+{{< tdclose >}}
+{{< tdopen >}}
+3.3-3.4
+{{< tdclose >}}
+{{< tdopen >}}
+3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Basis and dimension
+{{< tdclose >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+{{< tdopen >}}
+3.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The four fundamental subspaces
+{{< tdclose >}}
+{{< tdopen >}}
+3.6
+{{< tdclose >}}
+{{< tdopen >}}
+3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1: Chapters 1 to 3.4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Graphs and networks
+{{< tdclose >}}
+{{< tdopen >}}
+8.2
+{{< tdclose >}}
+{{< tdopen >}}
+3.5, 10.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Orthogonality
+{{< tdclose >}}
+{{< tdopen >}}
+4.1
+{{< tdclose >}}
+{{< tdopen >}}
+4.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Projections and subspaces
+{{< tdclose >}}
+{{< tdopen >}}
+4.2
+{{< tdclose >}}
+{{< tdopen >}}
+4.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Least squares approximations
+{{< tdclose >}}
+{{< tdopen >}}
+4.3
+{{< tdclose >}}
+{{< tdopen >}}
+4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Gram-Schmidt and _A_ = _QR_
+{{< tdclose >}}
+{{< tdopen >}}
+4.4
+{{< tdclose >}}
+{{< tdopen >}}
+4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of determinants
+{{< tdclose >}}
+{{< tdopen >}}
+5.1
+{{< tdclose >}}
+{{< tdopen >}}
+5.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Formulas for determinants
+{{< tdclose >}}
+{{< tdopen >}}
+5.2
+{{< tdclose >}}
+{{< tdopen >}}
+5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of determinants
+{{< tdclose >}}
+{{< tdopen >}}
+5.3
+{{< tdclose >}}
+{{< tdopen >}}
+5.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Eigenvalues and eigenvectors
+{{< tdclose >}}
+{{< tdopen >}}
+6.1
+{{< tdclose >}}
+{{< tdopen >}}
+6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Diagonalization
+{{< tdclose >}}
+{{< tdopen >}}
+6.2
+{{< tdclose >}}
+{{< tdopen >}}
+6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Markov matrices
+{{< tdclose >}}
+{{< tdopen >}}
+8.3
+{{< tdclose >}}
+{{< tdopen >}}
+10.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Review for exam 2_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2: Chapters 1-5, 6.1-6.2, 8.2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Differential equations
+{{< tdclose >}}
+{{< tdopen >}}
+6.3
+{{< tdclose >}}
+{{< tdopen >}}
+6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Symmetric matrices
+{{< tdclose >}}
+{{< tdopen >}}
+6.4
+{{< tdclose >}}
+{{< tdopen >}}
+6.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Positive definite matrices
+{{< tdclose >}}
+{{< tdopen >}}
+6.5
+{{< tdclose >}}
+{{< tdopen >}}
+6.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Matrices in engineering
+{{< tdclose >}}
+{{< tdopen >}}
+8.1
+{{< tdclose >}}
+{{< tdopen >}}
+10.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Similar matrices
+{{< tdclose >}}
+{{< tdopen >}}
+6.6
+{{< tdclose >}}
+{{< tdopen >}}
+6.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Singular value decomposition
+{{< tdclose >}}
+{{< tdopen >}}
+6.7
+{{< tdclose >}}
+{{< tdopen >}}
+7.1-7.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Fourier series, FFT, complex matrices
+{{< tdclose >}}
+{{< tdopen >}}
+8.5, 10.2-10.3
+{{< tdclose >}}
+{{< tdopen >}}
+10.5, 9.2-9.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Linear transformations
+{{< tdclose >}}
+{{< tdopen >}}
+7.1-7.2
+{{< tdclose >}}
+{{< tdopen >}}
+8.1-8.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Choice of basis
+{{< tdclose >}}
+{{< tdopen >}}
+7.3
+{{< tdclose >}}
+{{< tdopen >}}
+8.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Linear programming
+{{< tdclose >}}
+{{< tdopen >}}
+8.4
+{{< tdclose >}}
+{{< tdopen >}}
+10.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+_Course review_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3: Chapters 1-8 (8.1, 2, 3, 5)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical linear algebra
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.3
+{{< tdclose >}}
+{{< tdopen >}}
+11.1-11.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Computational science
+{{< tdclose >}}
+{{< tdopen >}}
+See the Web site for [18.085](/courses/18-085-computational-science-and-engineering-i-fall-2008)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
