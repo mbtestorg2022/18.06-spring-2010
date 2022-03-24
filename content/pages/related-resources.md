@@ -28,7 +28,7 @@ Strang, Gilbert. _Linear Algebra for Everyone._ 2020. [Wellesley-Cambridge Press
 
 Strang, Gilbert. _Differential Equations and Linear Algebra_. 2014. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/).ISBN: 9780980232790.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_ZoomNotes for Linear Algebra_ (PDF)]({{< baseurl >}}/resources/mit18_06s10zoomnotes). Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the [COVID-19 Pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
+[_ZoomNotes for Linear Algebra_ (PDF)]({{< baseurl >}}/resources/mit18_06s10zoomnotes). Professor Strang created these notes in 2020 and 2021 when many MIT classes were moved online (using Zoom) due to the [COVID-19 Pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). He hopes that faculty who are planning a linear algebra course and students who are reading for themselves will see these notes.
 
 Guest speaker at the weekly OLSUME (Online Seminar on Undergraduate Mathematics Education) on the topic [_Linear Algebra and Deep Learning_ (MP4)](https://olsume.org/wp-content/uploads/2021/09/strang.mp4)
 
@@ -64,25 +64,25 @@ Other Demos
 MATLAB® Information
 -------------------
 
-*   Best Guide to MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://homel.vsb.cz/~dom033/predmety/parisLA/01_matlab.pdf))
+*   Best Guide to MATLAB® ([PDF](https://homel.vsb.cz/~dom033/predmety/parisLA/01_matlab.pdf))
 *   Short MATLAB® Tutorial ([PDF]({{< baseurl >}}/resources/mit18_06s10_matlab)) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
 *   [MATLAB® Recitation Demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
 *   [MATLAB® Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
-*   A MATLAB cheat sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf))
+*   A MATLAB cheat sheet ([PDF](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf))
 
 Essays
 ------
 
 *   Pascal Matrices ([PDF]({{< baseurl >}}/resources/mit18_06s10_pascal_work))
 *   A Basis for 3 by 3 Symmetric Matrices ([PDF]({{< baseurl >}}/resources/mit18_06s10_symmbases))
-*   Gram-Schmidt in 9 Lines of MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_06s10_gramschmidtmat))
-*   Linear Algebra and Music (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf))
+*   Gram-Schmidt in 9 Lines of MATLAB® ([PDF]({{< baseurl >}}/resources/mit18_06s10_gramschmidtmat))
+*   Linear Algebra and Music ([PDF](http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf))
 
 Essays on Teaching Linear Algebra
 ---------------------------------
 
-*   Too Much Calculus (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Essays/too-much-calculus.pdf))
-*   Starting with Two Matrices (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Essays/starting2matrices_ver5.pdf))
-*   The Four Fundamental Subspaces: 4 Lines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Essays/newpaper_ver3.pdf))
-*   Fourier Sine Series Examples (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Fall07/sines.pdf))
-*   Notes on function spaces, Hermitian operators, and Fourier series (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Fall07/operators.pdf))
+*   Too Much Calculus ([PDF](http://web.mit.edu/18.06/www/Essays/too-much-calculus.pdf))
+*   Starting with Two Matrices ([PDF](http://web.mit.edu/18.06/www/Essays/starting2matrices_ver5.pdf))
+*   The Four Fundamental Subspaces: 4 Lines ([PDF](http://web.mit.edu/18.06/www/Essays/newpaper_ver3.pdf))
+*   Fourier Sine Series Examples ([PDF](http://web.mit.edu/18.06/www/Fall07/sines.pdf))
+*   Notes on function spaces, Hermitian operators, and Fourier series ([PDF](http://web.mit.edu/18.06/www/Fall07/operators.pdf))
