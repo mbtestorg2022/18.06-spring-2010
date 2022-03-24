@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: b5785e07-1ddb-991c-f3df-d7cc469e6397
 ---
@@ -28,7 +31,7 @@ The demo is also broken into 7 independent pieces:
 *   [Part 6](/ans7870/18/18.06/tools/Applets_sound/eigen_sound_6.html)
 *   [Part 7](/ans7870/18/18.06/tools/Applets_sound/eigen_sound_7.html)
 
-[Demo 2](/ans7870/18/18.06/tools/Power_method/power_method_flash.html) - Powers AnV lead toward the top eigenvalue/eigenvector
+[Demo 2](/ans7870/18/18.06/tools/Power_method/power_method_flash.html) - Powers A{{< sup "n" >}}V lead toward the top eigenvalue/eigenvector
 
 Mini-lectures on Eigenvalues
 ----------------------------

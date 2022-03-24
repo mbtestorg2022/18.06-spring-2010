@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 20: Cramer''s rule, inverse matrix, and volume'
 uid: 5092adda-6bc7-b604-ee9d-1077d5764166
@@ -14,7 +22,7 @@ video_metadata:
   youtube_id: QNpj-gOXW9M
 ---
 
-Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_\-1 = (1/det_A_)_C_T, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation _x_ = _A_\-1_b_ gives us Cramer's rule for solving _Ax_ = _b_. Also, the absolute value of the determinant gives the volume of a box.
+Now we start to use the determinant. Understanding the cofactor formula allows us to show that _A_{{< sup "\\-1" >}} = (1/det_A_)_C_{{< sup "T" >}}, where _C_ is the matrix of cofactors of _A_. Combining this formula with the equation _x_ = _A_{{< sup "\\-1" >}}_b_ gives us Cramer's rule for solving _Ax_ = _b_. Also, the absolute value of the determinant gives the volume of a box.
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 

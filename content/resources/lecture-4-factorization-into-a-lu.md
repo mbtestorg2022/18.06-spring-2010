@@ -2,13 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Factorization into A = LU'
 uid: aee7c474-318a-3fa4-6126-207c1b107c15
 video_files:
   archive_url: http://www.archive.org/download/MIT18.06S05_MP4/04.mp4
   video_captions_file: /courses/18-06-linear-algebra-spring-2010/384c13ab0cd45489a5daad41294e844d_MsIvs_6vC38.vtt
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/MsIvs_6vC38/default.jpg
   video_transcript_file: /courses/18-06-linear-algebra-spring-2010/bcac89b9054d2f1b8efc7b8c1a859068_MsIvs_6vC38.pdf
 video_metadata:
   youtube_id: MsIvs_6vC38

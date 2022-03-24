@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: An Interview with Gilbert Strang on Teaching Linear Algebra
 uid: e21b71ff-0fa9-75bf-a9ac-b2a155aafc1d

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "[Readings](pages/readings)  \n[Table of Contents](pages/readings#Table_of_Contents)"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 23: Differential equations and exp(At)'
 uid: 1568af1f-fb9e-c83b-dfed-b41742aab02b
@@ -14,7 +22,7 @@ video_metadata:
   youtube_id: IZqwi0wJovM
 ---
 
-In this lecture we apply linear algebra to solve differential equations. We also talk about matrix exponential e_At_. We can copy Taylor's series for e_At_ to define e_At_ for a matrix _A_. If _A_ is diagonalizable, we can use Λ to find the exact value of e_At_.
+In this lecture we apply linear algebra to solve differential equations. We also talk about matrix exponential e_{{< sup "At" >}}_. We can copy Taylor's series for e_{{< sup "At" >}}_ to define e_{{< sup "At" >}}_ for a matrix _A_. If _A_ is diagonalizable, we can use Λ to find the exact value of e_{{< sup "At" >}}_.
 
 These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
 
